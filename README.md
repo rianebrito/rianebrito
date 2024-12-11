@@ -10,17 +10,24 @@
   
 ## Estou aprendendo
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/> 
-                      
-            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  width="40" height="40" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"  width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg"  width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  width="40" height="40" />
           
-           
-            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  width="40" height="40" />
+## Onde você me encontra:
+
+:mailbox: riane.brito@gmail.com
+
+:link: [Meu Linkedin](https://www.linkedin.com/in/riane-brito/)
+
+
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
           
-            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  width="40" height="40" />
           
-            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"  width="40" height="40" />
           
-            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg"  width="40" height="40" />
+            
           
+            
+          
+            
           
